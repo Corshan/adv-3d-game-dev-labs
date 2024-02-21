@@ -6,6 +6,11 @@ TagManager:
   tags:
   - BC
   - healthPack
+  - Waypoint
+  - TeamMember
+  - Leader
+  - Team2Member
+  - saveData
   layers:
   - Default
   - TransparentFX
