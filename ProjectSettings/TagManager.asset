@@ -12,6 +12,17 @@ TagManager:
   - Team2Member
   - saveData
   - wall
+  - collect
+  - dialogue
+  - gaurd
+  - location
+  - WP
+  - waypoint
+  - Checkpoint
+  - Deadzone
+  - Bridge1
+  - NPC
+  - Bridge2
   layers:
   - Default
   - TransparentFX
